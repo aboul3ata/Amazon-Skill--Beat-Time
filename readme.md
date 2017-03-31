@@ -1,1 +1,1 @@
-This is an Amazon Skill that gives user a random beat so they can sing to. Developed fully at NYU-SHPE Amazon Sponsored Hackathon
+This is an Amazon Skill that gives user a random beat so they can sing to. Developed fully at NYU-SHPE Amazon Sponsored Hackathon. It received first prize award
